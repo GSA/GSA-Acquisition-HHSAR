@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_326_603_3_T48_4014232911">
+      <title class="- topic/title ">
+         <ph props="autonumber">326.603-3</ph> Deviations.</title>
+      <conbody>
+         <p outputclass="List1">(a) There are certain instances where the application of the Buy Indian Act to an acquisition may not be appropriate. In these instances, the CO must detail the reasons in writing or via email and make a deviation determination.
+</p>
+         <p outputclass="List1">(b) Some acquisitions by their very nature would make such a written determination unnecessary. For example, any order or call placed against an indefinite delivery vehicle that already has an approved deviation from the requirements of the Buy Indian Act.
+</p>
+         <p outputclass="List1">(c) Deviation determinations shall be required for all other acquisitions where the Buy Indian Act is applicable and must be approved as follows:
+</p>
+         <p xtrc="DIV">
+                                 
+                                 
+                                    <table frame="all" colsep="1" rowsep="1">
+               <title>
+                                    Table 1 to Paragraph (c)
+
+                                 </title>
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                          <entry colname="1">For a proposed contract action
+</entry>
+                                          <entry colname="2">The following official may authorize a deviation
+</entry>
+                                       </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">Exceeding the micro-purchase threshold and up to $25,000</entry>
+                                          <entry colname="2" align="left">Contracting Officer.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">Exceeding $25,000 but not exceeding $700,000</entry>
+                                          <entry colname="2" align="left">Chief Contracting Officer (CCO) (or the IHS Division of Acquisition Policy (DAP) Director, absent a CCO).
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">Exceeding $700,000 but not exceeding $13.5 million</entry>
+                                          <entry colname="2" align="left">IHS Competition Advocate.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">Exceeding $13.5 million but not exceeding $68 million</entry>
+                                          <entry colname="2" align="left">Head of Contracting Activity.
+</entry>
+                                       </row>
+                     <row rowsep="1">
+                                          <entry colname="1" align="left">Exceeding $68 million</entry>
+                                          <entry colname="2" align="left">HHS Office of Small &amp; Disadvantaged Business Utilization (OSDBU), Office of the General Counsel (OGC), HHS Department Competition Advocate and
+
+the HHS Senior Procurement Executive.</entry>
+                                       </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                 
+                              </p>
+         <p outputclass="List1">(d) Deviations may be authorized prior to issuing the solicitation when the CO makes the following determinations and takes the following actions:
+</p>
+         <p outputclass="List2">(1) The CO determines after market research that there is no reasonable expectation of obtaining offers that will be competitive in terms of market price, quality and delivery from two or more responsible ISBEEs or IEEs.
+</p>
+         <p outputclass="List2">(2) The deviation determination is authorized by the official listed at HHSAR 326.603-3(c) for the applicable contract action.
+</p>
+         <p outputclass="List1">(e) If a deviation determination has been approved, the CO must follow the FAR and HHSAR unless specified otherwise.
+</p>
+         <p outputclass="List1">(f) Acquisitions made under an authorized deviation from the requirements of the Buy Indian Act must be made in conformance with the order of precedence required by FAR 8.002.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

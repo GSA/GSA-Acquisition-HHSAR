@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_311_T48_401212">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 311</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 121(c)(2).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           80 FR 72151, Nov. 18, 2015, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_311_70_T48_4012121.dita#Subpart_311_70_T48_4012121">Subpart 311.70 - Section 508 Accessibility Standards</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7000_T48_401212111.dita#Section_311_7000_T48_401212111">311.7000 Defining electronic and information technology requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_311_71_T48_4012122.dita#Subpart_311_71_T48_4012122">Subpart 311.71 - Public Accommodations and Commercial Facilities.</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7100_T48_401212211.dita#Section_311_7100_T48_401212211">311.7100 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7101_T48_401212212.dita#Section_311_7101_T48_401212212">311.7101 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7102_T48_401212213.dita#Section_311_7102_T48_401212213">311.7102 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_311_72_T48_4012123.dita#Subpart_311_72_T48_4012123">Subpart 311.72 - Conference Funding and Sponsorship</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7200_T48_401212311.dita#Section_311_7200_T48_401212311">311.7200 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7201_T48_401212312.dita#Section_311_7201_T48_401212312">311.7201 Funding and sponsorship.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7202_T48_401212313.dita#Section_311_7202_T48_401212313">311.7202 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_311_73_T48_4012124.dita#Subpart_311_73_T48_4012124">Subpart 311.73 - Contractor Collection of Information</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7300_T48_401212411.dita#Section_311_7300_T48_401212411">311.7300 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_311_7301_T48_401212412.dita#Section_311_7301_T48_401212412">311.7301 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_370_T48_4011038">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 370</ph> - SPECIAL PROGRAMS AFFECTING ACQUISITION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 121(c)(2)
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           80 FR 72151, Nov. 18, 2015, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_370_1_T48_40110381.dita#Subpart_370_1_T48_40110381">Subparts 370.1-370.2 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_370_3_T48_40110382.dita#Subpart_370_3_T48_40110382">Subpart 370.3 - Acquisitions Involving Human Subjects</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_300_T48_4011038291.dita#Section_370_300_T48_4011038291">370.300 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_301_T48_4011038292.dita#Section_370_301_T48_4011038292">370.301 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_302_T48_4011038293.dita#Section_370_302_T48_4011038293">370.302 Federal-wide Assurance (FWA).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_303_T48_4011038294.dita#Section_370_303_T48_4011038294">370.303 Notice to offerors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_304_T48_4011038295.dita#Section_370_304_T48_4011038295">370.304 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_370_4_T48_40110383.dita#Subpart_370_4_T48_40110383">Subpart 370.4 - Acquisitions Involving the Use of Laboratory Animals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_400_T48_4011038391.dita#Section_370_400_T48_4011038391">370.400 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_401_T48_4011038392.dita#Section_370_401_T48_4011038392">370.401 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_402_T48_4011038393.dita#Section_370_402_T48_4011038393">370.402 Assurances.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_403_T48_4011038394.dita#Section_370_403_T48_4011038394">370.403 Notice to offerors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_404_T48_4011038395.dita#Section_370_404_T48_4011038395">370.404 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_370_5_T48_40110384.dita#Subpart_370_5_T48_40110384">Subparts 370.5-370.6 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_370_7_T48_40110385.dita#Subpart_370_7_T48_40110385">Subpart 370.7 - Acquisitions Under the Leadership Act</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_700_T48_4011038591.dita#Section_370_700_T48_4011038591">370.700 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_370_701_T48_4011038592.dita#Section_370_701_T48_4011038592">370.701 Solicitation provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_352_T48_401836">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 352</ph> - SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301, 40 U.S.C. 121(c)(2), 42 U.S.C. 2003.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           80 FR 72151, Nov. 18, 2015, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_352_1_T48_4018361.dita#Subpart_352_1_T48_4018361">Subpart 352.1 - Instructions for Using Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_100_T48_401836191.dita#Section_352_100_T48_401836191">352.100 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_101_70_T48_401836192.dita#Section_352_101_70_T48_401836192">352.101-70 Application of provisions and clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_352_2_T48_4018362.dita#Subpart_352_2_T48_4018362">Subpart 352.2 - Texts of Provisions and Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_203_70_T48_401836291.dita#Section_352_203_70_T48_401836291">352.203-70 Anti-Lobbying.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_204_70_T48_401836292.dita#Section_352_204_70_T48_401836292">352.204-70 Prevention and Public Health Fund - Reporting Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_208_70_T48_401836293.dita#Section_352_208_70_T48_401836293">352.208-70 Printing and Duplication.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_211_1_T48_401836294.dita#Section_352_211_1_T48_401836294">352.211-1 Public Accommodations and Commercial Facilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_211_2_T48_401836295.dita#Section_352_211_2_T48_401836295">352.211-2 Conference Sponsorship Requests and Conference Materials Disclaimer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_211_3_T48_401836296.dita#Section_352_211_3_T48_401836296">352.211-3 Paperwork Reduction Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_215_70_T48_401836297.dita#Section_352_215_70_T48_401836297">352.215-70 Late Proposals and Revisions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_216_70_T48_401836298.dita#Section_352_216_70_T48_401836298">352.216-70 Additional Cost Principles for Hospitals (Profit and Non-Profit).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_219_70_T48_401836299.dita#Section_352_219_70_T48_401836299">352.219-70 Mentor-Protégé Program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_219_71_T48_4018362910.dita#Section_352_219_71_T48_4018362910">352.219-71 Mentor-Protégé Program Reporting Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_222_70_T48_4018362911.dita#Section_352_222_70_T48_4018362911">352.222-70 Contractor Cooperation in Equal Employment Opportunity Investigations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_223_70_T48_4018362912.dita#Section_352_223_70_T48_4018362912">352.223-70 Safety and Health.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_223_71_T48_4018362913.dita#Section_352_223_71_T48_4018362913">352.223-71 Instructions to Offerors - Sustainable Acquisition.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_224_70_T48_4018362914.dita#Section_352_224_70_T48_4018362914">352.224-70 Privacy Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_224_71_T48_4018362915.dita#Section_352_224_71_T48_4018362915">352.224-71 Confidential Information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_1_T48_4018362916.dita#Section_352_226_1_T48_4018362916">352.226-1 Indian Preference.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_2_T48_4018362917.dita#Section_352_226_2_T48_4018362917">352.226-2 Indian Preference Program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_3_T48_4018362918.dita#Section_352_226_3_T48_4018362918">352.226-3 Native American Graves Protection and Repatriation Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_4_T48_4018362919.dita#Section_352_226_4_T48_4018362919">352.226-4 Notice of Indian Small Business Economic Enterprise set-aside.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_5_T48_4018362920.dita#Section_352_226_5_T48_4018362920">352.226-5 Notice of Indian Economic Enterprise set-aside.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_6_T48_4018362921.dita#Section_352_226_6_T48_4018362921">352.226-6 Indian Economic Enterprise Subcontracting Limitations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_226_7_T48_4018362922.dita#Section_352_226_7_T48_4018362922">352.226-7 Indian Economic Enterprise Representation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_227_11_T48_4018362923.dita#Section_352_227_11_T48_4018362923">352.227-11 Patent Rights - Exceptional Circumstances.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_227_14_T48_4018362924.dita#Section_352_227_14_T48_4018362924">352.227-14 Rights in Data - Exceptional Circumstances.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_227_70_T48_4018362925.dita#Section_352_227_70_T48_4018362925">352.227-70 Publications and Publicity.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_231_70_T48_4018362926.dita#Section_352_231_70_T48_4018362926">352.231-70 Salary Rate Limitation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_232_70_T48_4018362927.dita#Section_352_232_70_T48_4018362927">352.232-70 Incremental Funding.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_232_71_T48_4018362928.dita#Section_352_232_71_T48_4018362928">352.232-71 Electronic submission of payment requests</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_233_70_T48_4018362929.dita#Section_352_233_70_T48_4018362929">352.233-70 Choice of Law (Overseas).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_233_71_T48_4018362930.dita#Section_352_233_71_T48_4018362930">352.233-71 Litigation and Claims.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_236_70_T48_4018362931.dita#Section_352_236_70_T48_4018362931">352.236-70 Design-Build Contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_70_T48_4018362932.dita#Section_352_237_70_T48_4018362932">352.237-70 Pro-Children Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_71_T48_4018362933.dita#Section_352_237_71_T48_4018362933">352.237-71 Crime Control Act - Reporting of Child Abuse.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_72_T48_4018362934.dita#Section_352_237_72_T48_4018362934">352.237-72 Crime Control Act - Requirement for Background Checks.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_73_T48_4018362935.dita#Section_352_237_73_T48_4018362935">352.237-73 Indian Child Protection and Family Violence Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_74_T48_4018362936.dita#Section_352_237_74_T48_4018362936">352.237-74 Non-Discrimination in Service Delivery.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_237_75_T48_4018362937.dita#Section_352_237_75_T48_4018362937">352.237-75 Key Personnel.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_239_73_T48_4018362938.dita#Section_352_239_73_T48_4018362938">352.239-73 Electronic Information and Technology Accessibility Notice.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_239_74_T48_4018362939.dita#Section_352_239_74_T48_4018362939">352.239-74 Electronic and Information Technology Accessibility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_1_352_270_3_T48_4018362940.dita#Section_352_270_1_352_270_3_T48_4018362940">352.270-1--352.270-3 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_4a_T48_4018362941.dita#Section_352_270_4a_T48_4018362941">352.270-4a Notice to Offerors, Protection of Human Subjects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_4b_T48_4018362942.dita#Section_352_270_4b_T48_4018362942">352.270-4b Protection of Human Subjects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_5a_T48_4018362943.dita#Section_352_270_5a_T48_4018362943">352.270-5a Notice to Offerors of Requirement for Compliance with the Public Health Service Policy on Humane Care and Use of Laboratory Animals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_5b_T48_4018362944.dita#Section_352_270_5b_T48_4018362944">352.270-5b Care of Live Vertebrate Animals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_6_T48_4018362945.dita#Section_352_270_6_T48_4018362945">352.270-6 Restriction on Use of Human Subjects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_7_352_270_8_T48_4018362946.dita#Section_352_270_7_352_270_8_T48_4018362946">352.270-7--352.270-8 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_9_T48_4018362947.dita#Section_352_270_9_T48_4018362947">352.270-9 Non-Discrimination for Conscience.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_10_T48_4018362948.dita#Section_352_270_10_T48_4018362948">352.270-10 Notice to Offerors - Protection of Human Subjects, Research Involving Human Subjects Committee (RIHSC) Approval of Research Protocols Required.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_11_T48_4018362949.dita#Section_352_270_11_T48_4018362949">352.270-11 Protection of Human Subjects - Research Involving Human Subjects Committee (RIHSC) Approval of Research Protocols Required.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_12_T48_4018362950.dita#Section_352_270_12_T48_4018362950">352.270-12 Needle Exchange.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_352_270_13_T48_4018362951.dita#Section_352_270_13_T48_4018362951">352.270-13 Continued Ban on Funding Abortion and Continued Ban on Funding of Human Embryo Research.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

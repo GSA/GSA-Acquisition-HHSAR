@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_302_T48_40113">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 302</ph> - DEFINITIONS OF WORDS AND TERMS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 121(c)(2).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           80 FR 72151, Nov. 18, 2015, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_302_1_T48_401131.dita#Subpart_302_1_T48_401131">Subpart 302.1 - Definitions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_302_101_T48_40113111.dita#Section_302_101_T48_40113111">302.101 Definitions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
