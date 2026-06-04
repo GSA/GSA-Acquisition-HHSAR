@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_327_T48_401524">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 327</ph> - PATENTS, DATA, AND COPYRIGHTS</title>
+      <title class="- topic/title ">PART 327—PATENTS, DATA, AND COPYRIGHTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_327_3_T48_4015241.dita#Subpart_327_3_T48_4015241">Subpart 327.3 - Patent Rights Under Government Contracts</xref>
+                        href="Subpart_327_3_T48_4015241.dita#Subpart_327_3_T48_4015241">Subpart 327.3—Patent Rights Under Government Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,13 +36,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_327_4_T48_4015242.dita#Subpart_327_4_T48_4015242">Subpart 327.4 - Rights in Data and Copyrights</xref>
+                        href="Subpart_327_4_T48_4015242.dita#Subpart_327_4_T48_4015242">Subpart 327.4—Rights in Data and Copyrights</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_327_404_70_T48_401524291.dita#Section_327_404_70_T48_401524291">327.404-70 Solicitation provision and contract clause.</xref>
+                              href="Section_327_404-70_T48_401524291.dita#Section_327_404-70_T48_401524291">327.404-70 Solicitation provision and contract clause.</xref>
                      </p>
                   </li>
                   <li>

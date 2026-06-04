@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_342_T48_401735">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 342</ph> - CONTRACT ADMINISTRATION</title>
+      <title class="- topic/title ">PART 342—CONTRACT ADMINISTRATION
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_342_7_T48_4017351.dita#Subpart_342_7_T48_4017351">Subpart 342.7 - Indirect Cost Rates</xref>
+                        href="Subpart_342_7_T48_4017351.dita#Subpart_342_7_T48_4017351">Subpart 342.7—Indirect Cost Rates</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

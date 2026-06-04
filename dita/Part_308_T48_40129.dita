@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_308_T48_40129">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 308</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <title class="- topic/title ">PART 308—REQUIRED SOURCES OF SUPPLIES AND SERVICES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,13 +22,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_308_4_T48_401291.dita#Subpart_308_4_T48_401291">Subpart 308.4 - Federal Supply Schedules</xref>
+                        href="Subpart_308_4_T48_401291.dita#Subpart_308_4_T48_401291">Subpart 308.4—Federal Supply Schedules</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_308_405_6_T48_40129111.dita#Section_308_405_6_T48_40129111">308.405-6 Limited source justification and approval.</xref>
+                              href="Section_308_405-6_T48_40129111.dita#Section_308_405-6_T48_40129111">308.405-6 Limited source justification and approval.</xref>
                      </p>
                   </li>
                </ul>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_308_8_T48_401292.dita#Subpart_308_8_T48_401292">Subpart 308.8 - Acquisition of Printing and Related Supplies</xref>
+                        href="Subpart_308_8_T48_401292.dita#Subpart_308_8_T48_401292">Subpart 308.8—Acquisition of Printing and Related Supplies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
